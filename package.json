@@ -1,0 +1,12 @@
+{
+  "name": "beforeafter-data",
+  "version": "0.1.0",
+  "description": "This is a dataset of tv show \"That'S a DRAMATIC CHANGE!\".",
+  "main": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC BY-SA 4.0"
+}
